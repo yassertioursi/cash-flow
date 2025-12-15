@@ -1,0 +1,6 @@
+enum EBalanceSection {
+
+  main,
+
+  graph,
+}
